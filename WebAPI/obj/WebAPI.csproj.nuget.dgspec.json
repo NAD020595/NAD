@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NAD\\WebAPI\\WebAPI.csproj": {}
+    "E:\\Learn\\NAD\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\NAD\\WebAPI\\WebAPI.csproj": {
+    "E:\\Learn\\NAD\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NAD\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "E:\\Learn\\NAD\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\NAD\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Nguyen Anh Duy\\.nuget\\packages\\",
-        "outputPath": "D:\\NAD\\WebAPI\\obj\\",
+        "projectPath": "E:\\Learn\\NAD\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\duy.nguyen1\\.nuget\\packages\\",
+        "outputPath": "E:\\Learn\\NAD\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Nguyen Anh Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\duy.nguyen1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
