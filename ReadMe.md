@@ -1,1 +1,1 @@
-Test ReadMe
+Scaffold-DbContext 'Name=ConnectionStrings:NAD' Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -f

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Learn\\NAD\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E0A3C2-7A22-4F06-8290-F2F7D84CCF75}|WebAppMVC\\WebAppMVC.csproj|e:\\learn\\nad\\webappmvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E0A3C2-7A22-4F06-8290-F2F7D84CCF75}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E0A3C2-7A22-4F06-8290-F2F7D84CCF75}|WebAppMVC\\WebAppMVC.csproj|e:\\learn\\nad\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E0A3C2-7A22-4F06-8290-F2F7D84CCF75}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E0A3C2-7A22-4F06-8290-F2F7D84CCF75}|WebAppMVC\\WebAppMVC.csproj|e:\\learn\\nad\\webappmvc\\data\\nadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E0A3C2-7A22-4F06-8290-F2F7D84CCF75}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\data\\nadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,6 +91,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "E:\\Learn\\NAD\\WebAppMVC\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\RolesController.cs",
+              "ToolTip": "E:\\Learn\\NAD\\WebAppMVC\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:06:34.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Learn\\NAD\\WebAppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Program.cs",
+              "ToolTip": "E:\\Learn\\NAD\\WebAppMVC\\Program.cs",
+              "RelativeToolTip": "WebAppMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:02:07.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NADContext.cs",
+              "DocumentMoniker": "E:\\Learn\\NAD\\WebAppMVC\\Data\\NADContext.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Data\\NADContext.cs",
+              "ToolTip": "E:\\Learn\\NAD\\WebAppMVC\\Data\\NADContext.cs",
+              "RelativeToolTip": "WebAppMVC\\Data\\NADContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T10:01:21.131Z",
+              "EditorCaption": ""
             }
           ]
         }

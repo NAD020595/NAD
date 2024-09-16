@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using WebAppMVC.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// ==================================================================
+builder.Services.AddDbContext<NADContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("NAD"));
+});
+// ==================================================================
 
 var app = builder.Build();
 
